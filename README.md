@@ -1,9 +1,6 @@
 # RNAHeliCes
 RNAHeliCes
 Copyright (C) 2011-14 Jiabin Huang, Bjoern Voss.
-Send comments/bug reports to: J.Huang <jiabin.huang@biologie.uni-freiburg.de>.
-Updates: http://www.cyanolab.de/software/RNAHeliCes.htm
-
 
 Quickstart
 ------------
